@@ -40,14 +40,17 @@
   }
 
   .add-input{
+    max-width: 100%;
     grid-row: 1;
   }
 
   .add-date{
+    max-width: 100%;
     grid-row: 2;
   } 
 
   .add button {
+    max-width: 100%;
     padding: 10px 25px;
     background-color: #007bff;
     color: #fff;
